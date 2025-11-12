@@ -18,126 +18,159 @@ window.categoriasData = [
         tags: ['axé','lei','filosofia','fundamentos'],
         verified: true,
         source: 'Consolidado: Corral; Prandi; Barbosa Jr.; Saraceni',
-        conteudo: `
-            <h2>Visão Geral</h2>
-            <p>A Umbanda é uma religião brasileira de matriz afro-indígena que <strong>nasce por volta de 1908</strong> (caso clássico da Tenda Espírita Nossa Senhora da Piedade) articulando influências de cultos africanos (Yorubá, Bantu), indígenas (caboclos), kardecismo, catolicismo popular e espiritualismo esotérico. Seu eixo filosófico repousa sobre três pilares operativos: <strong>Caridade</strong>, <strong>Axé</strong> e <strong>Lei (Justiça Divina / Carma)</strong>.</p>
-            <h3>Caridade como Método Evolutivo</h3>
-            <p>Caridade, na Umbanda, não é assistencialismo restrito; é o <em>serviço energético e espiritual</em> que promove a reforma íntima de quem doa e de quem recebe. Cada passe, aconselhamento, limpeza ou desobsessão é simultaneamente ato de cura e de educação espiritual. <em>Fora da Caridade não há Salvação</em> sintetiza o princípio de que sem servir o outro, não se dilui o ego e não se expande consciência.</p>
-            <h3>Axé: Fonte de Potência Ritual</h3>
-            <div class="key-concept">
-                <h4>Definição Operativa</h4>
-                <p>Axé (<em>Aṣẹ</em>) é a <strong>força vital circulante</strong> que permeia todos os seres e elementos. Na prática ritual ele é <em>coletado</em> (herbário, alimentos, cantos), <em>condensado</em> (pontos riscados, firmezas), <em>canalizado</em> (passes, incorporação) e <em>redistribuído</em> (descarrego, cura, orientação). Sem intenção clara (<em>ori</em> alinhado) e sem técnica correta, o Axé permanece difuso e o ritual perde eficiência.</p>
-                <p><strong>Fontes de Axé:</strong> Natureza (folhas, água, fogo, minerais), ancestralidade (eguns elevados), som (atabaques / pontos cantados), geometria ritual (pontos riscados) e estado de consciência do médium.</p>
-            </div>
-            <h3>Lei de Ação e Reação (Carma)</h3>
-            <p>A Umbanda integra o conceito de Carma a uma noção dinâmica: cada pensamento, emoção e ato gera padrões vibracionais que retornam para ajuste. Não há punição arbitrária; há reeducação energética. Exus e Pombagiras aplicam a Lei nos planos densos; Guias da Direita orientam e transmutam; Orixás irradiam princípios estruturantes (justiça, equilíbrio, fertilidade, cura).</p>
-            <blockquote class="citation">Sistematizações: (Corral; Barbosa Jr.; Saraceni).</blockquote>
-            <h3>Elementos Estruturais do Culto</h3>
-            <ul>
-                <li><strong>Corrente Mediúnica:</strong> Rede de médiuns que, harmonizados, amplificam Axé e sustentam incorporação segura.</li>
-                <li><strong>Congá:</strong> Foco de irradiação dos Orixás e eixo de organização litúrgica.</li>
-                <li><strong>Tronqueira:</strong> Portal de proteção e filtragem (Guardiões).</li>
-                <li><strong>Pontos Cantados:</strong> Matriz sonora que modula frequência do trabalho (toques ijexá, congo, nagô, barravento).</li>
-                <li><strong>Pontos Riscados:</strong> Geometria de condensação e direcionamento de Axé.</li>
-            </ul>
-            <h3>Palavras-chave</h3>
-            <ul>
-                <li><strong>Caridade:</strong> Serviço que educa e expande consciência.</li>
-                <li><strong>Axé:</strong> Energia vital ritualizada para produzir transformação.</li>
-                <li><strong>Lei:</strong> Equilíbrio e justiça cármica; evolução pela responsabilidade.</li>
-                <li><strong>Sincretismo:</strong> Integração funcional sem perda de identidade espiritual.</li>
-            </ul>
-            <div class="ritual-detail">
-                <h4>Recomendações Práticas Iniciais</h4>
-                <ol>
-                    <li>Evite executar ritos complexos sem orientação formal; priorize estudo e observação participante.</li>
-                    <li>Registre percepções pós-gira (diário mediúnico) para acompanhamento de evolução de sensibilidade.</li>
-                    <li>Pratique limpeza energética regular (banho simples de arruda + alecrim) antes e após giras de maior densidade.</li>
-                    <li>Mantenha postura ética: pedidos de vingança ou manipulação devem ser reeducados, não atendidos.</li>
-                </ol>
-            </div>
-            <h3>Linha do Tempo Sintética</h3>
-            <ul>
-                <li><strong>1908:</strong> Estrutura inicial divulgada (Zélio / Caboclo das Sete Encruzilhadas).</li>
-                <li><strong>Décadas 1930–1950:</strong> Consolidação de tendas e codificações iniciais; diálogo com kardecismo.</li>
-                <li><strong>Anos 1960–1980:</strong> Expansão nacional; maior visibilidade da Esquerda e sistematizações.</li>
-                <li><strong>2000+:</strong> Abordagens acadêmicas, resgate de matrizes afro-indígenas e aprofundamento etnográfico.</li>
-            </ul>
-        `,
+            conteudo: `
+                <p>A Umbanda é uma religião rica em fundamentos, rituais e uma filosofia profunda, que se estabeleceu como um movimento caritativo de inclusão espiritual. A seguir, detalhamos os aspectos solicitados, conforme as informações contidas nas fontes.</p>
+                <h2>Fundamentos: Filosofia, Axé e Lei de Ação e Reação</h2>
+                <h3>Visão Geral</h3>
+                <p>A Umbanda é reconhecida como uma <strong>religião constituída, com fundamentos, teologia própria, hierarquia, sacerdotes e sacramentos</strong>. Suas sessões são gratuitas, focadas no atendimento <strong>holístico</strong> (corpo, mente, espírito) e na prática da caridade, sem proselitismo. Por ser uma religião ecológica, ela convida seus adeptos a vivenciarem sua fé no cotidiano, cuidando do próprio corpo e do meio ambiente.</p>
+                <p>A Umbanda está alicerçada em quatro pilares essenciais: <strong>religião, ciência, filosofia e arte</strong>, os quais promovem o equilíbrio do ser em sua jornada espiritual.</p>
+                <ul>
+                    <li><strong>Religião:</strong> Atua como a porta de entrada para o contato com o universo espiritual através da liturgia.</li>
+                    <li><strong>Filosofia:</strong> Concede consciência sobre o modo de vida e lida com aspectos subjetivos, fomentando transformações internas e o respeito à consciência de cada ser.</li>
+                    <li><strong>Ciência:</strong> Oferece o conhecimento necessário para que o indivíduo viva na matéria em harmonia com o mundo espiritual, abordando aspectos extrafísicos.</li>
+                    <li><strong>Arte:</strong> Busca despertar o sentir, manifestando-se na liturgia por meio de pontos cantados, sons das entidades e pembas riscadas.</li>
+                </ul>
+                <h3>Caridade como Método Evolutivo</h3>
+                <p>A essência fundamental da Umbanda é a <strong>manifestação do espírito para a caridade</strong>. A caridade, o amor fraterno e a humildade constituem a bandeira da religião. O objetivo maior é o <strong>serviço desinteressado</strong> que educa e expande a consciência.</p>
+                <p>A prática da caridade é vista como o princípio evangélico que motivou a atuação dos espíritos no início do culto. Para o médium, a caridade é o elemento mais importante na vida, sendo todo o resto "mero adereço". Essa caridade, que não se limita ao assistencialismo, está em sintonia com os ensinamentos de Jesus.</p>
+                <h3>Axé: Fonte de Potência Ritual</h3>
+                <p><strong>Axé</strong> é o <strong>fluido cósmico universal</strong>, sendo também a <strong>força vital</strong> inerente e imprescindível a todo ser. Tudo na natureza contém axé: os minerais, as folhas, a terra, o fogo e a água.</p>
+                <p>Na Umbanda, a <strong>mediunidade</strong> é a ferramenta propulsora e condutora do deslocamento do axé. O axé é o sustentáculo da prática litúrgica umbandista e precisa ser realimentado regularmente. Os Orixás, enquanto forças da natureza, influenciam e são responsáveis pela irradiação e movimentação do axé.</p>
+                <p>O <strong>Exu</strong> é elemento dinâmico indispensável: a <strong>vibração</strong> que <strong>desloca o Axé entre os planos</strong> (Orum ↔ Aiyê) e comunica os Orixás. <strong>Ofertar primeiro a Exu, pedindo licença (agô)</strong>, assegura fluxo, ordem e proteção ritual.</p>
+                <h3>Lei de Ação e Reação (Carma)</h3>
+                <p>A crença na <strong>Lei de Ação e Reação</strong> é um dos princípios da Umbanda. Esta lei, também conhecida como Lei do Equilíbrio ou Carma, implica que <strong>tudo o que se planta, é colhido</strong>. Ela rege o equilíbrio entre ações e reações (causa e consequência).</p>
+                <p>A Lei de Ação e Reação é respaldada pelo princípio do <strong>livre-arbítrio</strong>. A Umbanda prega a <strong>evolução pela responsabilidade</strong>. Os dias chegarão em que os tribunais de Xangô, Orixá da Justiça, estabelecerão o que é de cada um, conforme a semeadura.</p>
+                <h3>Elementos Estruturais do Culto</h3>
+                <p>O culto umbandista, geralmente realizado em <strong>giras</strong> (os trabalhos ritualísticos mais conhecidos), possui elementos essenciais que organizam o trabalho espiritual.</p>
+                <table class="datatable">
+                    <thead>
+                        <tr><th>Elemento</th><th>Descrição e Função</th><th>Fontes</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td><strong>Corrente Mediúnica</strong></td><td>Rede de médiuns que, quando harmonizados, sustentam o intercâmbio mediúnico. Os médiuns dão-se as mãos em círculo (corrente vibratória), com um gesto simbólico de dar e receber, para fortalecer a energia coletiva. O médium rodante (ou de incorporação) é aquele que incorpora Guias e Entidades para os trabalhos espirituais.</td><td></td></tr>
+                        <tr><td><strong>Congá</strong></td><td>Altar sagrado: <strong>núcleo aglutinador</strong> e <strong>foco visual/magnético</strong>. Atua como <strong>atrator, condensador, transformador e redistribuidor de Axé</strong>. A qualidade vibracional reflete a disciplina da corrente mediúnica; ornamentação não substitui harmonia interna.</td><td></td></tr>
+                        <tr><td><strong>Tronqueira</strong></td><td><strong>Portal de proteção, filtragem e sentinela energética</strong>; interface liminar profano ↔ sagrado. Absorve e reprocessa cargas densas. É o <strong>ponto focal da Linha da Esquerda</strong>; saudação inicial e final é fundamento.</td><td></td></tr>
+                        <tr><td><strong>Pontos Cantados</strong></td><td>Matriz sonora que modula frequência. <strong>Preces vibradas</strong> que geram <strong>egrégora</strong>, alinham pensamentos e atraem Orixás, Guias e Entidades. Funcionam como <strong>mantras operativos</strong>; curimba e atabaques sustentam a vibração (barravento, cabula, congo, ijexá).</td><td></td></tr>
+                        <tr><td><strong>Pontos Riscados</strong></td><td><strong>Chaves vibracionais</strong> e <strong>portais energéticos</strong> formando campos magnéticos. Riscados com <strong>pemba</strong> (calcário consagrado) para condensar Axé e desintegrar miasmas. Em cortes extremos pode-se usar <strong>pólvora</strong> (apenas sacerdotes experientes). Selos de Exu mantêm vínculo aberto sem sobrecarregar o médium.</td><td></td></tr>
+                    </tbody>
+                </table>
+                <h3>Palavras-chave</h3>
+                <ul>
+                    <li><strong>Caridade:</strong> É a <strong>Manifestação do Espírito para a Caridade</strong>. É o serviço que educa e expande a consciência.</li>
+                    <li><strong>Axé:</strong> É a <strong>Energia vital ritualizada para produzir transformação</strong>. É o fluido cósmico universal, fundamental para a realização de todos os trabalhos mediúnicos.</li>
+                    <li><strong>Lei:</strong> Representa o <strong>Equilíbrio e a justiça cármica</strong>. A Lei de Ação e Reação determina a <strong>evolução pela responsabilidade</strong>, garantindo que a colheita seja obrigatória, conforme a semeadura.</li>
+                    <li><strong>Sincretismo:</strong> Integração funcional sem perda de identidade. Evitar <strong>sincretismo acrítico</strong> que confunde Orixá (princípio cósmico) e Santo (espírito santificado). Algumas casas reduzem imagens para focar na energia; histórico afro-católico foi estratégia de preservação.</li>
+                </ul>
+                <h3>Recomendações Práticas Iniciais</h3>
+                <ul>
+                    <li><strong>Evite ritos complexos sem orientação formal:</strong> Priorize <strong>estudo + ética</strong>. O médium mais útil é o que estuda continuamente. Kardecismo contribuiu para método sistemático de análise da mediunidade. Banhos e amacis sempre guiados pelo dirigente; ritos de defesa/fixação são reservados.</li>
+                    <li><strong>Registre percepções pós-gira (diário mediúnico) para acompanhamento de evolução de sensibilidade:</strong> O equilíbrio e o desenvolvimento do médium são cruciais para que não haja distorção das orientações dos mentores. O auto-aperfeiçoamento se dá através da reforma íntima, que é auxiliada pela leitura e compreensão do simbólico.</li>
+                    <li><strong>Banhos simples (arruda + alecrim):</strong> Antes e após giras densas, do pescoço para baixo. Evitar misturar ervas quentes sem orientação. Arruda e alecrim = defesa e clareza; Oxalá liga-se sobretudo à Luz/Ar/Fogo sutil e à cor branca. Amaci magnetiza água/ervas fortalecendo tônus mediúnico.</li>
+                    <li><strong>Postura ética inequívoca:</strong> Pedidos de vingança/manipulação devem ser acolhidos na dor e <strong>reeducados</strong> (livre-arbítrio é inegociável). Recusar trabalhos que prejudiquem terceiros. Exu aplica Lei de Ação e Reação, não facilita magia nociva.</li>
+                </ul>
+                <h3>Indicadores de Fluxo Saudável</h3>
+                <ul>
+                    <li><strong>Consciência acesa</strong> durante e após incorporação.</li>
+                    <li><strong>Estabilidade de padrão</strong> vibratório e mensagem coerente.</li>
+                    <li><strong>Ausência de vaidade exaltada</strong> e chantagem emocional.</li>
+                </ul>
+                <h3>Linha do Tempo Sintética</h3>
+                <table class="datatable">
+                    <thead>
+                        <tr><th>Período</th><th>Evento Chave e Contexto</th><th>Fontes</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td><strong>1908</strong></td><td><strong>Estrutura inicial divulgada (Zélio / Caboclo das Sete Encruzilhadas).</strong> O Caboclo das Sete Encruzilhadas manifestou-se em Zélio Fernandino de Moraes e declarou o início do novo culto em 15 de novembro de 1908. O nome dado ao movimento religioso foi "Umbanda: Manifestação do Espírito para a Caridade".</td><td></td></tr>
+                        <tr><td><strong>Décadas 1930–1950</strong></td><td><strong>Consolidação de tendas e codificações iniciais; diálogo com kardecismo.</strong> Zélio recebeu ordens para fundar sete tendas a partir de 1918. A Umbanda, ao surgir, acolheu médiuns considerados "inconvenientes" pela mesa kardecista elitizada. O Kardecismo é uma das matrizes da Umbanda, mas a Umbanda se distinguiu ao aceitar a manifestação de Pretos-Velhos e Caboclos.</td><td></td></tr>
+                        <tr><td><strong>Anos 1960–1980</strong></td><td><strong>Expansão nacional; maior visibilidade da Esquerda e sistematizações.</strong> Pai Guiné, no advento da década de 1950, trouxe conceitos esotéricos e iniciáticos. A Linha do Oriente (incluindo Ciganos) ganhou popularidade nas décadas de 1950 e 1960. Houve sistematizações, como a organização de Orixás em Linhas Maiores e Menores publicada em 1964.</td><td></td></tr>
+                        <tr><td><strong>2000+</strong></td><td><strong>Abordagens acadêmicas, resgate de matrizes afro-indígenas e aprofundamento etnográfico.</strong> Continuação da sistematização da doutrina, como a organização das Sete Linhas de Umbanda por Rubens Saraceni em 2003 e a ordenação em 2009. Há um crescimento de abordagens acadêmicas e a busca por um entendimento mais profundo das raízes afro-indígenas (como a Jurema e o Catimbó).</td><td></td></tr>
+                    </tbody>
+                </table>
+            `,
         aprofundar: [
             'Estudo comparativo: Corral (O Livro da Esquerda), Prandi (Mitologia dos Orixás), Barbosa Jr. (Umbanda: História).',
             'Reflexões sobre Axé (Prandi) e suas manifestações rituais.'
         ]
     },
     {
-        id: 'axé_orum_aiyê',
-        group: 'Fundamentos',
-        nome: 'Axé, Orum e Aiyê',
-        titulo: 'Axé, Orum e Aiyê: Planos e Fluxos da Realidade',
-        tags: ['axé','orum','aiyê','cosmogonia'],
-        verified: true,
-        source: 'Prandi; Nascimento; Barbosa Jr.',
-        conteudo: `
-            <h2>Axé como Energia Dinâmica</h2>
-            <p>Axé é fluxo, potência e sustentação. Há <strong>Axé Intrínseco</strong> (inerente aos elementos naturais) e <strong>Axé Operativo</strong> (mobilizado conscientemente no rito). Quando cantos (vibração sonora), pontos riscados (geometria) e oferendas (substrato material) convergem, formam um <em>circuito de Axé</em> que altera a qualidade vibracional do espaço.</p>
-            <h3>Estrutura de Circulação</h3>
-            <ul>
-                <li><strong>Captação:</strong> Folhas colhidas com licença (Ossaim), água de fonte, minerais, fogo disciplinado.</li>
-                <li><strong>Condensação:</strong> Ponto riscado e vela definem foco e permanência temporal.</li>
-                <li><strong>Conversão:</strong> Passes e incorporação transformam Axé bruto em Axé terapêutico.</li>
-                <li><strong>Redistribuição:</strong> Descarrego, cura, abertura de caminhos, orientação mediúnica.</li>
-            </ul>
-            <h3>Orum e Aiyê — Dois Campos Interconectados</h3>
-            <p><strong>Orum</strong> (plano sutil) abriga Orixás, falanges elevadas e estruturas de justiça. <strong>Aiyê</strong> (plano físico) é a arena de experiências encarnatórias. O médium funciona como <em>membrana semipermeável</em> regulando fluxo entre planos; a incorporação é menos "entrada" e mais <strong>acoplamento vibracional</strong>.</p>
-            <div class="key-concept">
-                <h4>Correspondências Chave</h4>
-                <p><strong>Ritmo</strong> (atabaque) sincroniza campo emocional; <strong>Cor</strong> (velas, panos) sintoniza frequência de Orixá; <strong>Elemento</strong> (fogo, água, folhas) oferece a matriz; <strong>Verbo</strong> (ponto cantado) abre canal; <strong>Geometria</strong> (ponto riscado) estabiliza.</p>
-            </div>
-            <h3>Indicadores de Fluxo Saudável</h3>
-            <ul>
-                <li>Sensação de expansão e leveza pós-gira.</li>
-                <li>Redução de animismo (mensagens coerentes, éticas).</li>
-                <li>Ambiente permanece estável (sem sobrecarga ou torpor).</li>
-            </ul>
-        `,
-        aprofundar: [ 'Leituras sobre Orum / Aiyê e sua intermediação nas práticas ritualísticas.' ]
-    },
-    {
         id: 'orixas_detalhado',
         group: 'Fundamentos',
         nome: 'Orixás — funções e correspondências',
-        titulo: 'Orixás: Características, Itans e Correspondências',
+        titulo: 'Orixás: Irradiações, Itans, Ética e Correspondências Ampliadas',
         tags: ['orixá','itans','correspondencias'],
         verified: true,
         source: 'Prandi; Nascimento; Barbosa Jr.',
         conteudo: `
-            <h2>Perfil e Sintonia dos Orixás</h2>
-            <p>Orixás são <strong>funções cósmicas</strong>, irradiações especializadas do Divino. Cada um opera <em>vetores de equilíbrio</em>: justiça, fertilidade, transformação, expansão, introspecção, cura. Não são "personalidades humanas" completas, mas campos de princípios que entidades (Guias / Guardiões) acessam para executar trabalhos.</p>
-            <h3>Estrutura Prática de Correspondências</h3>
+            <h2>Compreensão Metafísica dos Orixás</h2>
+            <p>Os Orixás são <strong>funções cósmicas</strong> e <strong>irradiações especializadas</strong> do Divino. Não se reduzem a “personalidades” antropomórficas: constituem <em>arquétipos operativos magnéticos</em> que modulam justiça, expansão, fertilidade, ordenação, transmutação, cura, fé e amor. Eles estruturam <strong>matrizes de comportamento energético</strong> que marcam cada espírito desde sua criação – uma "digital" cósmica de potencialidades e caminhos. Entidades (Caboclos, Pretos-Velhos, Guardiões) acessam esses campos para aplicar Axé; trabalhos rituais alinham microcampos humanos a macroprincípios divinos, não “substituem Deus”.</p>
+
+            <h3>I. Natureza e Irradiações</h3>
+            <ul>
+                <li><strong>Eledá (Pai/Mãe de Cabeça):</strong> Orixá pessoal que equilibra a interface corpo-ambiente, espelhando arquétipos em temperamento e missão.</li>
+                <li><strong>Portais de Princípios:</strong> Vibrar Ogum → corte/avanço disciplinado; vibrar Oxóssi → expansão/sustento; vibrar Oxalá → síntese/paz; cada invocação redistribui padrões de Axé.</li>
+                <li><strong>Axé Operativo:</strong> A invocação por pontos cantados e firmezas “fixa” temporariamente vetores do princípio para aplicação terapêutica.</li>
+            </ul>
+
+            <h3>II. Interdependência e Didática dos Itans</h3>
+            <p>Nenhum princípio é absoluto; há complementaridade e contrapesos. Justiça sem afeto gera rigidez (Xangô equilibrado por Oxum). Masculino/feminino expressam polaridades eternas – a dualidade primordial (ex.: Oxalá e Odudua). Os <strong>Itans</strong> funcionam como modelos éticos e pedagógicos: interpretá-los exige captar o espírito do símbolo, não apenas a letra.</p>
             <table class="datatable">
-                <caption>Correspondências Sintéticas</caption>
-                <thead><tr><th>Orixá</th><th>Elemento</th><th>Cores</th><th>Principais Chaves</th><th>Aplicações</th></tr></thead>
+                <thead><tr><th>Orixá (Itan síntese)</th><th>Lição Ética</th><th>Aplicação Prática</th></tr></thead>
                 <tbody>
-                    <tr><td>Oxalá</td><td>Luz / Ar</td><td>Branco</td><td>Paz, síntese, fé</td><td>Harmonização, apaziguamento mental</td></tr>
-                    <tr><td>Ogum</td><td>Ferro / Fogo</td><td>Azul escuro / Vermelho</td><td>Corte, avanço, disciplina</td><td>Abertura de caminhos profissionais</td></tr>
-                    <tr><td>Oxóssi</td><td>Mata / Ar</td><td>Verde / Azul claro</td><td>Expansão, sustento, conhecimento</td><td>Prosperidade, estudo, alimentação</td></tr>
-                    <tr><td>Oxum</td><td>Água doce</td><td>Dourado / Amarelo</td><td>Afeto, fertilidade, autoestima</td><td>Equilíbrio emocional, relacionamentos</td></tr>
-                    <tr><td>Iansã</td><td>Ventos / Fogo</td><td>Vermelho / Marrom</td><td>Movimento, justiça dinâmica, eguns</td><td>Descarrego, transformação rápida</td></tr>
-                    <tr><td>Xangô</td><td>Fogo / Pedra</td><td>Marrom / Vermelho / Branco</td><td>Justiça, poder decisório</td><td>Causas jurídicas, equilíbrio moral</td></tr>
-                    <tr><td>Iemanjá</td><td>Águas salgadas</td><td>Azul / Branco</td><td>Maternidade, organização psíquica</td><td>Cuidado familiar, gestação</td></tr>
-                    <tr><td>Obaluaê</td><td>Fogo interno / Terra</td><td>Marrom / Roxo / Palha</td><td>Cura profunda, ciclos</td><td>Doenças crônicas, transmutação</td></tr>
+                    <tr><td>Ogum partilha o ferro</td><td>Tecnologia com responsabilidade</td><td>Pedir avanço → junto a disciplina e ética; não “dominar rivais”</td></tr>
+                    <tr><td>Oxóssi caça equilibradamente</td><td>Sustentabilidade e foco preciso</td><td>Prosperidade → estudo + partilha (evitar enriquecimento predatório)</td></tr>
+                    <tr><td>Oxum restaura fertilidade</td><td>Cuidado e doçura disciplinada</td><td>Afeto legítimo → autoestima e nutrição emocional, não controle</td></tr>
+                    <tr><td>Xangô domina o fogo pela justiça</td><td>Equidade e responsabilidade do poder</td><td>Pedidos de equilíbrio moral interno; evitar vingança travestida de justiça</td></tr>
+                    <tr><td>Obaluaê transmuta pela dor</td><td>Paciência evolutiva</td><td>Cura profunda → aceitar ciclos e reforma íntima, evitando “milagre instantâneo”</td></tr>
                 </tbody>
             </table>
-            <h3>Itans: Função Didática</h3>
-            <p>Os Itans oferecem <strong>modelos éticos</strong>. Ex.: Ogum partilha o ferro → ética do uso responsável da tecnologia; Oxóssi provê caça equilibrada → sustentabilidade e sabedoria; Oxum salva a terra com ebó → centralidade do cuidado e da doçura disciplinada.</p>
-            <h3>Aplicação Ritual Responsável</h3>
+            <p><strong>Boa prática:</strong> Usar Itans para reeducar pedidos antiéticos (amarração → transformar em pedido de cura emocional e proteção do livre-arbítrio).</p>
+
+            <h3>III. Erros Comuns e Boas Práticas</h3>
             <ul>
-                <li>Evitar projeção psicológica simplista (reduzir Orixá a traços humanos limitados).</li>
-                <li>Alinhar pedido com campo legítimo (prosperidade material → Oxóssi / alinhado com fartura, não com acumulação predatória).</li>
-                <li>Consultar hierarquia da casa antes de introduzir novas simbologias ou cores.</li>
+                <li><strong>Projeção Psicológica:</strong> Reduzir Orixás a traços humanos (ciúme, vaidade) gera sincretismo confuso; quem incorpora são falangeiros, não o princípio puro.</li>
+                <li><strong>Sincretismo Acrítico:</strong> Confundir Orixá (função divina) com Santo (espírito santificado). Validação sempre pela Casa e Guia.</li>
+                <li><strong>Estudo Comparativo:</strong> Priorizar múltiplas fontes + validação ritual; reconhecer variações legítimas entre terreiros.</li>
+                <li><strong>Moral Elevada:</strong> Humildade, amor, caridade (virtudes evangélicas) sustentam pureza mediúnica; técnica sem ética = campo vulnerável.</li>
             </ul>
+
+            <h3>IV. Correspondências Funcionais (Sete Linhas)</h3>
+            <table class="datatable">
+                <thead><tr><th>Orixá</th><th>Elemento Regente</th><th>Regência Central</th><th>Chave Ética</th><th>Aplicações/Pedidos Legítimos</th></tr></thead>
+                <tbody>
+                    <tr><td>Oxalá</td><td>Luz / Ar / Fogo sutil</td><td>Paz, fé, síntese, harmonização</td><td>Elevação sem evasão</td><td>Organização mental, pacificação coletiva</td></tr>
+                    <tr><td>Ogum</td><td>Ferro / Fogo / Ar</td><td>Corte, avanço, disciplina</td><td>Progressão responsável</td><td>Abertura de caminhos com ética; definição de metas</td></tr>
+                    <tr><td>Xangô</td><td>Fogo / Pedra</td><td>Justiça, poder decisório</td><td>Equidade sem revanchismo</td><td>Lucidez em escolhas difíceis; equilíbrio em disputas</td></tr>
+                    <tr><td>Oxóssi</td><td>Mata / Ar / Vegetal</td><td>Expansão, sustento, conhecimento</td><td>Fartura equilibrada</td><td>Prosperidade com estudo; foco estratégico</td></tr>
+                    <tr><td>Iemanjá</td><td>Águas salgadas</td><td>Maternidade, organização psíquica</td><td>Acolher sem aprisionar</td><td>Estruturação emocional familiar</td></tr>
+                    <tr><td>Oxum</td><td>Água doce / Mineral</td><td>Afeto, fertilidade, equilíbrio emocional</td><td>Cuidado disciplinado</td><td>Autoestima legítima; harmonização afetiva</td></tr>
+                    <tr><td>Obaluaiê</td><td>Fogo interno / Terra / Telúrica</td><td>Cura profunda, ciclos, transmutação</td><td>Transformação paciente</td><td>Força em tratamentos; aceitação de processos</td></tr>
+                </tbody>
+            </table>
+            <p>Correspondências auxiliam <strong>concentração mental</strong>; não substituem medicina ou responsabilidade pessoal.</p>
+
+            <h3>V. Boas Práticas de Aplicação Ritual</h3>
+            <ul>
+                <li><strong>Filtro Ético Primeiro:</strong> Técnica só após validar intenção (livre-arbítrio/responsabilidade).</li>
+                <li><strong>Minimalismo Vibracional:</strong> Evitar excesso de elementos ao firmar Oxalá: síntese gera foco.</li>
+                <li><strong>Reeducação de Pedidos:</strong> "Dominar mercado" → Oxóssi: aprendizado, sustentabilidade, partilha.</li>
+                <li><strong>Registro Pós-Gira:</strong> Mapear qual irradiação atuou para treinar sensibilidade mediúnica.</li>
+            </ul>
+
+            <h3>VI. Sinalizadores de Pedido Antiético</h3>
+            <ul>
+                <li>Verbos de coerção (prender, forçar, amarrar).</li>
+                <li>Expectativa de solução sem reforma íntima.</li>
+                <li>Desejo de humilhação pública de terceiros.</li>
+            </ul>
+
+            <h3>Resumo Final</h3>
+            <p>Compreender Orixás como <strong>estruturas de princípios</strong> evita projeções e sustenta pedidos evolutivos. Interdependência dirige equilíbrio; Itans educam ética; correspondências focam intenção; disciplina moral garante integridade. A Umbanda propõe estudo comparativo e vivência caritativa para alinhar o campo humano às irradiações divinas.</p>
         `,
-        aprofundar: [ 'Estudo comparado dos itans de Oxóssi, Oxum, Ogum e Oxalá.' ]
+        aprofundar: [
+            'Estudo comparado dos Itans: Ogum (tecnologia), Oxóssi (sustentabilidade), Oxum (cuidado), Xangô (equidade).',
+            'Mapeamento fisiológico simbólico: relação entre campos vibracionais e hábitos saudáveis (não substitui medicina).',
+            'Prática de reformulação ética de pedidos (laboratório de aconselhamento com casos simulados).'
+        ]
     },
     {
         id: 'hierarquia_fundamentos',
@@ -148,32 +181,50 @@ window.categoriasData = [
         verified: true,
         source: 'Corral; Saraceni; Barbosa Jr.',
         conteudo: `
-            <h2>Estrutura Piramidal e Funções</h2>
-            <p>A hierarquia espiritual organiza <strong>responsabilidade vibracional</strong>. Não é ranking moral, mas distribuição funcional de tarefas. A clareza dessa estrutura evita sobrecarga de médiuns, previne animismo e aumenta segurança ritual.</p>
-            <h3>Camadas Funcionais</h3>
+            <h2>Hierarquia Espiritual: Estrutura Funcional e Implicações</h2>
+            <p>A hierarquia espiritual na Umbanda é um sistema vital que organiza a <strong>responsabilidade vibracional</strong> e assegura fluidez e segurança aos trabalhos. Não constitui um ranking moral; representa uma <strong>distribuição funcional de tarefas</strong> e alcances de irradiação. A clareza dessa organização evita sobrecarga de médiuns, previne animismo (mistura da mente do médium com a expressão da entidade) e reforça protocolos de proteção.</p>
+            <p>Os Orixás Maiores (Tronos) são irradiações cósmicas de princípios divinos e não "incorporam"; quem se manifesta são Guias e Entidades (falangeiros) que acessam esses campos de força para executar caridade. A modelagem esotérica em algumas escolas expande essa geometria pela lógica do número sete (Sete Linhas), chegando teoricamente a grandes números de entidades operativas em níveis inferiores.</p>
+            <h3>Camadas Funcionais e Graus Hierárquicos</h3>
+            <p>A seguir, síntese funcional dos níveis, do macro princípio até os executores práticos da caridade:</p>
             <table class="datatable">
-                <thead><tr><th>Camada</th><th>Descrição</th><th>Risco se Ausente</th><th>Exemplo</th></tr></thead>
+                <thead><tr><th>Camada</th><th>Nível Hierárquico</th><th>Descrição Funcional</th><th>Exemplo</th></tr></thead>
                 <tbody>
-                    <tr><td>Tronos / Orixás Maiores</td><td>Irradiação macro dos princípios</td><td>Perda de eixo doutrinário</td><td>Oxalá, Xangô</td></tr>
-                    <tr><td>Orixás Menores / Legiões</td><td>Gerência de campos específicos</td><td>Desorganização de demanda coletiva</td><td>Falangeiros de Ogum</td></tr>
-                    <tr><td>Chefes de Falange</td><td>Coordenação de grupos operativos</td><td>Trabalho fragmentado</td><td>Caboclo Sete Encruzilhadas</td></tr>
-                    <tr><td>Guias de Cabeça</td><td>Mentoria mediúnica individual</td><td>Desenvolvimento irregular</td><td>Preto-Velho / Caboclo tutor</td></tr>
-                    <tr><td>Protetores / Linha de Trabalho</td><td>Execução prática de caridade</td><td>Redução de atendimento</td><td>Boiadeiros, Marinheiros</td></tr>
-                    <tr><td>Guardiões (Esquerda)</td><td>Proteção / Corte / Justiça</td><td>Infiltrações, ataques energéticos</td><td>Exu Tranca-Rua, Pombagira Maria Padilha</td></tr>
+                    <tr><td>Tronos / Orixás Maiores</td><td>Orixá Maior</td><td>Irradiação macro dos princípios; reflexo divino; eixo doutrinário.</td><td>Oxalá, Xangô</td></tr>
+                    <tr><td>Orixás Menores / Legiões</td><td>Chefe de Legião</td><td>Gerência de campos específicos; ordena Legiões de espíritos.</td><td>Falangeiros de Ogum</td></tr>
+                    <tr><td>Chefes de Falange</td><td>Chefe de Falange</td><td>Coordenação de grupos operativos por afinidade e compromisso caritativo.</td><td>Caboclo Sete Encruzilhadas</td></tr>
+                    <tr><td>Guias de Cabeça (Mentores)</td><td>Chefe / Guia de Grupamento</td><td>Mentoria mediúnica individual; responde pelo médium.</td><td>Preto-Velho tutor, Caboclo mentor</td></tr>
+                    <tr><td>Protetores / Linha de Trabalho</td><td>Integrantes (5º–7º níveis)</td><td>Execução prática da caridade, passes, orientação, sustentação de giras.</td><td>Boiadeiros, Marinheiros, Crianças</td></tr>
+                    <tr><td>Guardiões (Esquerda)</td><td>Protetores de Corte</td><td>Proteção, limpeza pesada, desmanche de demandas, aplicação direta da Lei.</td><td>Exu Tranca-Rua, Pombagira Maria Padilha</td></tr>
                 </tbody>
             </table>
+            <h3>Implicações Práticas</h3>
+            <ul>
+                <li><strong>Sequência de limpeza:</strong> Guardiões atuam primeiro (corte e desmanche) antes da harmonização pelas linhas da Direita.</li>
+                <li><strong>Mentoria mediúnica:</strong> Guias de Cabeça disciplinam desenvolvimento; ausência de orientação gera desenvolvimento irregular e risco de exposição a planos densos.</li>
+                <li><strong>Escopo de atuação:</strong> Cada camada evita extrapolar função (Guardiões não substituem aconselhamento profundo de Pretos-Velhos; Caboclo mentor não executa toda limpeza pesada).</li>
+            </ul>
             <h3>Boas Práticas de Gestão da Corrente</h3>
             <ul>
-                <li><strong>Roda de avaliação pós-gira:</strong> Chefia + médiuns revisam ocorrências, ajustam protocolos.</li>
-                <li><strong>Mapeamento de especialidades:</strong> Identificar quais linhas cada médium ancora com maior estabilidade.</li>
-                <li><strong>Rotina de limpeza da casa:</strong> Guardiões atuam primeiro, depois harmonização Direita.</li>
+                <li><strong>Roda pós-gira:</strong> Revisão de ocorrências, ajustes de protocolos e registro de fenômenos.</li>
+                <li><strong>Mapeamento de especialidades:</strong> Identificar linhas onde cada médium ancora com estabilidade (ex.: Caboclo de Xangô para passes de dispersão, Guia de Oxalá para harmonização mental).</li>
+                <li><strong>Humildade funcional:</strong> Funções (Babá, Ogã, Cambone) são serviço, não status; foco em conforto e bem-estar do assistido.</li>
+                <li><strong>Rotina de limpeza:</strong> Firmezas de Guardiões seguidas de defumação e sustentação do Congá.</li>
             </ul>
-            <h3>Sinais de Desalinhamento Hierárquico</h3>
+            <h3>Sinais de Desalinhamento</h3>
             <ul>
-                <li>Médiuns assumindo funções de chefia sem preparo.</li>
-                <li>Excesso de mensagens diretivas contraditórias.</li>
-                <li>Fadiga energética recorrente em toda a corrente.</li>
+                <li>Médiuns assumindo chefia sem preparo e sem confirmação espiritual.</li>
+                <li>Mensagens diretivas contraditórias indicando falta de eixo doutrinário.</li>
+                <li>Fadiga energética coletiva recorrente (corrente sobrecarregada, falta de divisão de tarefas).</li>
             </ul>
+            <h3>Responsabilidade e Obrigações</h3>
+            <ul>
+                <li><strong>Obrigações rituais:</strong> Batismo, coroação, saídas: aumentam responsabilidade e necessidade de ética estável.</li>
+                <li><strong>Guias (colares):</strong> Primeira guia (batismo) é principal vínculo fluídico; demais reforçam função e proteção.</li>
+                <li><strong>Raridade de incorporações superiores:</strong> Orixás Maiores não incorporam; Orixás Menores/Falangeiros apenas em correntes muito preparadas.</li>
+                <li><strong>Doutrina clara:</strong> Protege contra reducionismos psicológicos e mistificação; mantém foco no princípio e não em projeções humanas limitadas.</li>
+            </ul>
+            <h3>Resumo Ético-Funcional</h3>
+            <p>A hierarquia garante que cada campo vibracional opere em seu <em>lugar de responsabilidade</em>. Organização reduz animismo, sustenta proteção e aumenta eficiência da caridade. Falta de clareza gera desgaste, ruído e risco doutrinário.</p>
         `,
         aprofundar: [ 'Analises sobre as implicações práticas da hierarquia em rituais e obrigação de média.' ]
     },
@@ -217,34 +268,81 @@ window.categoriasData = [
         verified: true,
         source: 'Barbosa Jr.; Trindade',
         conteudo: `
-            <h2>Congá, Tronqueira, Otá e Assentamentos</h2>
-            <p>Cada espaço ritual é um <strong>módulo funcional</strong>: Congá (irradiação), Tronqueira (proteção / filtragem), Área de Defumação (transmutação), Espaço de Atendimento (acolhimento), Depósito Ritual (controle de elementos). A disposição física influencia fluxo de pessoas e estabilidade vibracional.</p>
-            <h3>Congá</h3>
+            <h2>Organização dos Espaços Sagrados e Objetos de Força</h2>
+            <p>A organização física e a consagração criteriosa dos objetos rituais são <strong>pilares para o fluxo contínuo de Axé e a estabilidade vibracional do terreiro</strong>. O terreiro deve ser entendido como um <strong>sistema modular</strong> de pontos vibracionais interdependentes. A harmonia entre módulos evita sobrecarga em um único polo (ex.: Congá) e distribui corretamente absorção, filtragem, irradiação e escoamento.</p>
+
+            <h3>I. Módulos Funcionais e Pontos Vibracionais</h3>
+            <p>Cada módulo cumpre função específica na <em>engenharia energética</em> do templo. A disposição (layout) deve favorecer: (a) fluxo ordenado de pessoas; (b) linhas claras de visão; (c) zonas de silêncio/acolhimento; (d) redução de cruzamentos desnecessários que geram turbulência magnética.</p>
+            <table class="datatable">
+                <thead>
+                    <tr><th>Módulo Funcional</th><th>Finalidade Principal</th><th>Observações Operacionais</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td><strong>Congá</strong></td><td>Irradiação, condensação e distribuição de forças.</td><td>Evitar excesso de imagens (ruído simbólico); foco em síntese arquétipa.</td></tr>
+                    <tr><td><strong>Tronqueira</strong></td><td>Proteção, filtragem e retenção de cargas densas.</td><td>Firmeza inicial das giras; saudação na entrada e saída.</td></tr>
+                    <tr><td><strong>Área de Defumação</strong></td><td>Transmutação, limpeza aérea e preparação dos campos.</td><td>Ventilação cruzada; descarte ecológico das cinzas.</td></tr>
+                    <tr><td><strong>Espaço de Atendimento</strong></td><td>Acolhimento, passes e consultas.</td><td>Evitar ruído; iluminação difusa reduz ansiedade.</td></tr>
+                    <tr><td><strong>Depósito Ritual</strong></td><td>Controle, armazenamento seguro e rastreável de elementos.</td><td>Inventário datado (entrada, consagração, validade).</td></tr>
+                    <tr><td><strong>Cruzeiro das Almas</strong></td><td>Reverência e oferendas às Almas/Pretos-Velhos.</td><td>Local de silêncio e vela branca; evitar trânsito lateral.</td></tr>
+                    <tr><td><strong>Quartinha de Oxalá</strong></td><td>Atração e irradiação pacificadora contínua.</td><td>Água renovada criteriosamente; não tocar sem permissão.</td></tr>
+                    <tr><td><strong>Centro (Chão / Ariaxé)</strong></td><td>Colunas energéticas / eixo de descarga e expansão.</td><td>Manter livre; sem objetos permanentes.</td></tr>
+                    <tr><td><strong>Para-raio (sob Congá)</strong></td><td>Descarga de energias negativas acumuladas.</td><td>Supervisão sacerdotal; limpeza periódica.</td></tr>
+                </tbody>
+            </table>
+
+            <h3>II. O Congá (Altar)</h3>
+            <p><strong>Núcleo aglutinador</strong> e foco visual/magnético dos trabalhos. Funciona como atrator, condensador, transformador e redistribuidor de Axé. A qualidade vibracional do Congá espelha a disciplina e harmonia do corpo mediúnico (ornamentação não compensa desarmonia interna).</p>
             <ul>
-                <li><strong>Função:</strong> Foco visual e magnético dos Orixás; organiza atenção coletiva.</li>
-                <li><strong>Manutenção:</strong> Limpeza semanal; velas posicionadas em segurança; água (Oxalá/Iemanjá) renovada.</li>
-                <li><strong>Erro comum:</strong> Excesso de imagens sincréticas gerando ruído simbólico.</li>
+                <li><strong>Componentes:</strong> Imagens/representações essenciais, otás, velas firmadas em suportes seguros, água consagrada (Oxalá/Iemanjá), elementos sazonais autorizados.</li>
+                <li><strong>Manutenção:</strong> Limpeza semanal estruturada (remoção de cera, pó, fluidificação da água); inspeção de estabilidade elétrica/ignição de velas.</li>
+                <li><strong>Curadoria Simbólica:</strong> Critério para inclusão; evitar sincretismos redundantes que criem “poluição semiótica”.</li>
+                <li><strong>Erro Comum:</strong> Multiplicação de imagens para “potencializar” força gerando dispersão de foco.</li>
             </ul>
-            <h3>Tronqueira</h3>
+
+            <h3>III. A Tronqueira (Proteção e Firmeza)</h3>
+            <p>Ponto de guarda e filtragem vinculado ao Exu Guardião (e, quando aplicável, Pombagira Guardiã). Atua como <strong>interface liminar</strong> entre espaço profano e espaço sagrado, absorvendo e reprocessando cargas entrantes.</p>
             <ul>
-                <li><strong>Posição:</strong> Limiar de entrada esquerdo (padrão), podendo variar conforme terreno.</li>
-                <li><strong>Itens:</strong> Ponto riscado, velas vermelha/preta ou bicolores, bebida, fumo, elementos de firmeza.</li>
-                <li><strong>Procedimento:</strong> Saudação ao entrar e sair; firmezas regulares (ex.: semanal).</li>
+                <li><strong>Localização:</strong> Preferencialmente no limiar de entrada à esquerda; adaptações conforme planta.</li>
+                <li><strong>Elementos de Firmeza:</strong> Ponto riscado (fixo ou traçado); velas vermelha/preta ou bicolor; cachaça ou bebida afim; fumo (charuto/fumo de rolo); oferendas autorizadas.</li>
+                <li><strong>Protocolos:</strong> Saudação ao entrar/sair (três palmas + saudação). Primeiro ato de uma gira: firmeza/saudação na Tronqueira.</li>
+                <li><strong>Manutenção:</strong> Limpeza física; remoção de resíduos; firmezas regulares (ex.: semanal) com registro simples (data/hora/elementos).</li>
+                <li><strong>Descarte de Defumação:</strong> Restos podem ser queimados em alguidar próximo ou destinados à mata — evitar água corrente (preservação ambiental).</li>
             </ul>
-            <h3>Otá e Assentamentos</h3>
-            <p>Otá (pedra consagrada) canaliza Axé específico. Assentamento é o conjunto organizado (recipiente, elementos, inscrições) que mantém padrão vibracional. <strong>Nunca deslocar</strong> sem autorização sacerdotal.</p>
-            <h3>Boas Práticas Gerais</h3>
+
+            <h3>IV. Otá e Assentamentos</h3>
+            <p><strong>Otá:</strong> Pedra consagrada que canaliza Axé específico de um Orixá, podendo coincidir com pedra pessoal do iniciado (proteção vitalícia).<br/>
+            <strong>Assentamento:</strong> Conjunto organizado (continente + elementos naturais + selos) que estabiliza padrão vibracional da divindade/entidade.</p>
             <ul>
-                <li>Catalogar elementos (inventário ritual) com data de consagração.</li>
-                <li>Ajustar iluminação para evitar sombras excessivas em áreas de circulação.</li>
-                <li>Separar descarte ritual de lixo comum para preservação ecológica.</li>
+                <li><strong>Princípio:</strong> Não deslocar Otá ou Assentamento sem autorização sacerdotal — risco de ruptura de campo.</li>
+                <li><strong>Casa dos Orixás:</strong> Local reservado onde assentamentos dos médiuns e Orixás recebem oferendas e inspeção.</li>
+                <li><strong>Integridade:</strong> Verificar integridade física (trincas, umidade) e simbólica (elementos vencidos) periodicamente.</li>
             </ul>
-            <h3>Indicadores de Necessidade de Refirmar Espaço</h3>
+
+            <h3>V. Boas Práticas e Governança Ritual</h3>
             <ul>
-                <li>Fumaça de defumação torna-se pesada e desce rapidamente.</li>
-                <li>Médiuns relatam dor de cabeça coletiva.</li>
-                <li>Velas apagam ou crepitam excessivamente sem corrente de ar evidente.</li>
+                <li><strong>Inventário Ritual:</strong> Catalogar elementos com data de consagração e lote – facilita reposição e evita uso vencido.</li>
+                <li><strong>Iluminação:</strong> Ajustar para eliminar sombras profundas em circulação (reduz sensação de densidade).</li>
+                <li><strong>Preservação Ecológica:</strong> Separar descarte ritual do lixo comum; priorizar materiais biodegradáveis; evitar despejo em água corrente.</li>
+                <li><strong>Conduta do Médium:</strong> Abstenção de álcool e relações sexuais pré-gira (disciplina energética / corpo limpo) para foco consciente.</li>
             </ul>
+
+            <h3>VI. Indicadores de Necessidade de Refirmar o Espaço</h3>
+            <p>Monitorar sinais que apontam sobrecarga ou ataque energético — acionam protocolo de reforço (firmezas extras + defumação + banhos/amacis programados):</p>
+            <ul>
+                <li><strong>Sinais Coletivos:</strong> Dor de cabeça simultânea, fraqueza generalizada, indisposição incomum.</li>
+                <li><strong>Defumação:</strong> Fumaça pesada que desce rapidamente (em vez de subir leve).</li>
+                <li><strong>Velas:</strong> Apagam ou crepitam excessivamente sem corrente de ar evidente (indício de interferência vibracional).</li>
+            </ul>
+            <p>Aparecendo sinais, realizar: (1) defumação corretiva; (2) reforço de firmeza na Tronqueira; (3) inspeção de elementos físicos (umidade, mofo); (4) banhos/amacis para fortalecimento de chacras e complexo fluídico.</p>
+
+            <h3>VII. Micro-Checklist Operacional</h3>
+            <ul>
+                <li><strong>Pré-Gira:</strong> Firmeza Tronqueira → Revisão Congá (água/velas) → Defumação leve → Conferir inventário emergencial (velas, ervas, água).</li>
+                <li><strong>Pós-Gira:</strong> Apagar resíduos inseguros → Registrar ocorrências energéticas → Renovar água → Planejar reforço (se sinais presentes).</li>
+                <li><strong>Mensal:</strong> Auditoria de assentamentos (integridade / data) + limpeza profunda de depósito ritual.</li>
+            </ul>
+            <h3>Resumo Essencial</h3>
+            <p>Layout consciente + curadoria simbólica + manutenção disciplinada = <strong>campo estável</strong>. O Congá irradia; a Tronqueira filtra; os assentamentos sustentam; a rotina de governança evita colapsos vibracionais e responde precocemente a indicadores de sobrecarga.</p>
         `,
         aprofundar: [ 'Tipos de tronqueira, localização e rotina de manutenção; boas práticas sanitárias.' ]
     },
@@ -350,29 +448,99 @@ window.categoriasData = [
         nome: 'Guias e Linhas de Trabalho',
         tags: ['guias','falanges','linhas'],
         verified: true,
-        titulo: 'Guias Espirituais e Linhas de Trabalho',
+        titulo: 'Guias Espirituais e Linhas de Trabalho: A Estrutura da Caridade na Umbanda',
         conteudo: `
-            <p>Guias são <strong>especialistas vibracionais</strong>. Cada linha traduz princípios divinos em linguagem acessível ao consulente. Pretos-Velhos estabilizam e educam; Caboclos expandem e vitalizam; Crianças renovam e purificam; Boiadeiros conduzem e protegem coletivamente; Exus e Pombagiras cortam e defendem.</p>
-            <h3>Estrutura de Linhas (Exemplo Funcional)</h3>
+            <h2>Guias Espirituais e Linhas de Trabalho: A Estrutura da Caridade na Umbanda</h2>
+            <p>Na Umbanda, os Guias/Entidades são <strong>especialistas vibracionais</strong> que traduzem <em>princípios divinos</em> em linguagem e atuação acessíveis ao consulente, operando como verdadeiros "ministros" do Divino no plano humano. A caridade é o eixo: orientar, curar, proteger e educar com ética.</p>
+
+            <h3>I. Guias, Falanges e a Hierarquia Espiritual</h3>
+            <p>Os Guias trabalham de modo anônimo e amoroso sob a Lei de Umbanda, muitas vezes usando nomes genéricos (ex.: Caboclo Pena Branca). São responsáveis por orientar médiuns, terreiros e consulentes, promovendo a evolução dos encarnados e, por consequência, a própria evolução.</p>
+            <ul>
+                <li><strong>Orixás x Guias:</strong> Orixás (forças/divindades) <strong>não incorporam</strong> diretamente. Quem se manifesta nas giras são <strong>falangeiros</strong> (Guias/Entidades) que trabalham sob as irradiações dos Orixás.</li>
+                <li><strong>Falanges:</strong> Agrupamentos de espíritos afins a determinados Orixás, com vibração e compromisso caritativo semelhantes. Em falanges amplas (ex.: Cabocla Jurema), milhares podem atuar sob o mesmo nome.</li>
+            </ul>
+            <h4>Estrutura Hierárquica (síntese)</h4>
+            <ul>
+                <li><strong>Tronos/Orixás Maiores</strong> → <strong>Orixás Menores/Legiões</strong> → <strong>Chefes de Falange</strong> → <strong>Guias de Cabeça</strong> (geralmente 5º nível: Chefes de Grupamento) → <strong>Protetores/Linha de Frente</strong>.</li>
+                <li><strong>Papel do Guia de Cabeça:</strong> Responde pelo médium e disciplina o desenvolvimento.</li>
+            </ul>
+
+            <h3>II. A Estrutura Vibracional (As Linhas de Trabalho)</h3>
+            <p>As <strong>Linhas de Trabalho</strong> traduzem princípios divinos em linguagem prática. Um modelo de <em>Sete Linhas</em>, baseado em essências/princípios (varia por escola), pode ser apresentado assim:</p>
+            <table class="datatable">
+                <thead>
+                    <tr><th>#</th><th>Essência</th><th>Princípio</th><th>Orixá (ex.)</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>1</td><td>Cristalina</td><td>Fé</td><td>Oxalá</td></tr>
+                    <tr><td>2</td><td>Mineral</td><td>Amor</td><td>Oxum</td></tr>
+                    <tr><td>3</td><td>Vegetal</td><td>Conhecimento</td><td>Oxóssi</td></tr>
+                    <tr><td>4</td><td>Ígnea</td><td>Justiça</td><td>Xangô</td></tr>
+                    <tr><td>5</td><td>Aérea</td><td>Lei</td><td>Ogum</td></tr>
+                    <tr><td>6</td><td>Telúrica</td><td>Evolução</td><td>Obaluaiê</td></tr>
+                    <tr><td>7</td><td>Aquática</td><td>Geração / Vida</td><td>Iemanjá</td></tr>
+                </tbody>
+            </table>
+            <p>Nota: é um <em>modelo de referência</em> para estudo e pode ter variações conforme a Doutrina da Casa.</p>
+
+            <h3>III. Os Especialistas Vibracionais e Suas Funções</h3>
+            <p>Seguem as "roupagens fluídicas" mais frequentes e seus papéis no triângulo que sustenta a Umbanda (Pretos-Velhos, Caboclos, Crianças), além de Boiadeiros e Guardiões:</p>
+
+            <h4>1) Pretos-Velhos (Linha de Yorimá)</h4>
+            <ul>
+                <li><strong>Função:</strong> Estabilizam e educam. Símbolos de humildade, tolerância, perdão, compaixão.</li>
+                <li><strong>Ação:</strong> Sábios conselheiros ("psicólogos da roça"); consolo, conforto, receitas naturais (chás/emplastros); uso do fumo e da fumaça para fixar bons fluidos e dispersar miasmas.</li>
+                <li><strong>Vibração/Linha:</strong> Yorimá (Almas) – potência real da Lei; mirongas para amparo e luz. Ex.: Pai Guiné (preparado por Caboclo das Sete Encruzilhadas).</li>
+            </ul>
+
+            <h4>2) Caboclos (Oxóssi, Ogum, Xangô, Oxalá, Iemanjá)</h4>
+            <ul>
+                <li><strong>Função:</strong> Expandem e vitalizam. Simples, diretos, por vezes altivos; irradiam luz e energia.</li>
+                <li><strong>Ação:</strong> Conhecimento de ervas (banhos/chás), limpezas de aura, desobsessões, combate ao astral inferior; passes serenos; brados e assobios como senhas/mantras de limpeza.</li>
+                <li><strong>Vibração/Linha:</strong> Majoritariamente Oxóssi (Caçador), mas manifestam-se em diversas linhas; charuto como elemento de proteção/desagregação.</li>
+            </ul>
+
+            <h4>3) Crianças (Linha de Yori)</h4>
+            <ul>
+                <li><strong>Função:</strong> Renovam e purificam; transmitem alegria e harmonia.</li>
+                <li><strong>Ação:</strong> Conselheiros e curadores; equilibram chakras de entrada; descarregam e reequilibram pela brincadeira (riso/quietude/choro como técnica); afinidade com doces (ofertas compatíveis com a Casa).</li>
+                <li><strong>Vibração/Linha:</strong> Yori (pureza e renovação).</li>
+            </ul>
+
+            <h4>4) Boiadeiros</h4>
+            <ul>
+                <li><strong>Função:</strong> Conduzem e protegem coletivamente.</li>
+                <li><strong>Ação:</strong> Laço e chicote (armas espirituais) para conter/debandar espíritos deletérios e resgatar perdidos; força de vontade, liberdade, determinação; descarregos importantes.</li>
+            </ul>
+
+            <h4>5) Exus e Pombagiras (Guardiões)</h4>
+            <ul>
+                <li><strong>Função:</strong> Cortam e defendem; proteção, desmanche e aplicação da Lei.</li>
+                <li><strong>Ação:</strong> Corte de demandas, desfazimento de magias negativas, descarregos/desobsessões; encaminhamento de espíritos de baixa vibração.</li>
+                <li><strong>Natureza/Linha:</strong> Faixa de <em>retificação evolutiva</em>; agentes de reajustes cármicos; espíritos em evolução sob ordens dos Orixás.</li>
+                <li><strong>Exu:</strong> Elemento dinâmico de comunicação que desloca Axé entre planos; senhor do polo negativo (magnético, não moral); gargalhadas como mantras desagregadores.</li>
+                <li><strong>Pombagira:</strong> Senhora das paixões; rege desejo (inclusive sexual) direcionando-o a propósitos construtivos; força feminina/justiça afetiva.</li>
+                <li><strong>Linhas da Esquerda:</strong> Compõem a Esquerda (em algumas casas referida como Quimbanda), realizando trabalhos de corte/proteção mais pesados, sempre dentro da Lei. Pela evolução, um Exu pode migrar de atuação (ex.: Ogum/ Pretos-Velhos) conforme mérito.</li>
+            </ul>
+
+            <h3>IV. Estrutura de Linhas (mapa funcional rápido)</h3>
             <table class="datatable">
                 <thead><tr><th>Linha</th><th>Função Primária</th><th>Foco de Atendimento</th><th>Sinais de Trabalho</th></tr></thead>
                 <tbody>
                     <tr><td>Pretos-Velhos</td><td>Sabedoria / aconselhamento</td><td>Ansiedade, culpa, orientação moral</td><td>Postura curvada, voz calma</td></tr>
                     <tr><td>Caboclos</td><td>Vitalidade / expansão</td><td>Fadiga, decisões estratégicas</td><td>Respiração profunda, firmeza corporal</td></tr>
                     <tr><td>Crianças (Erês)</td><td>Purificação / leveza</td><td>Tristeza, densidade emocional</td><td>Riso espontâneo, doçura energética</td></tr>
+                    <tr><td>Boiadeiros</td><td>Condução / ordenação de campos</td><td>Proteção coletiva, dispersão de miasmas</td><td>Gestos de laço, movimentos amplos</td></tr>
                     <tr><td>Exus</td><td>Proteção / corte</td><td>Demandas, bloqueios materiais</td><td>Firmeza direta, energia quente</td></tr>
-                    <tr><td>Pombagiras</td><td>Reflexão emocional / justiça afetiva</td><td>Autoestima, amarras emocionais, relações tóxicas</td><td>Elegância firme, voz incisiva</td></tr>
-                    <tr><td>Exu Mirim</td><td>Quebra de padrões cristalizados</td><td>Estagnação, repetição de erros, infantilidades psíquicas</td><td>Energia rápida, riso crítico</td></tr>
-                    <tr><td>Boiadeiros</td><td>Condução / ordenação de campos</td><td>Confusão grupal, proteção coletiva</td><td>Movimento circular, gestos de laço</td></tr>
-                    <tr><td>Ciganos</td><td>Prosperidade sutil / orientação</td><td>Rotas de vida, amor equilibrado, criatividade</td><td>Dança leve, uso de cores e leitura oracular</td></tr>
-                    <tr><td>Malandros</td><td>Estratégia adaptativa</td><td>Desafios urbanos, injustiças sociais</td><td>Ginga, humor, postura confiante</td></tr>
+                    <tr><td>Pombagiras</td><td>Justiça afetiva / espelhamento</td><td>Autoestima, amarras emocionais</td><td>Elegância firme, verbo incisivo</td></tr>
                 </tbody>
             </table>
-            <h3>Critérios de Discernimento</h3>
+
+            <h3>V. Critérios de Discernimento</h3>
             <ul>
-                <li><strong>Coerência Doutrinária:</strong> Mensagens alinhadas a ética e caridade.</li>
-                <li><strong>Constância Energética:</strong> Padrão vibracional estável entre incorporações.</li>
-                <li><strong>Ausência de Chantagem:</strong> Entidade não exige favores pessoais ou ganhos materiais.</li>
+                <li><strong>Coerência doutrinária:</strong> Mensagens alinhadas à ética e à caridade.</li>
+                <li><strong>Constância energética:</strong> Padrão vibracional estável entre incorporações.</li>
+                <li><strong>Ausência de chantagem:</strong> Entidade não exige favores ou ganhos materiais pessoais.</li>
             </ul>
         `,
         aprofundar: [ 'Leitura do cap. Hierarquia e Graus (Corral p. 13).' ]
@@ -386,29 +554,87 @@ window.categoriasData = [
         verified: true,
         titulo: 'A Contribuição de "O Livro da Esquerda na Umbanda" (J. A. Corral)',
         conteudo: `
-            <p>A obra "O Livro da Esquerda na Umbanda", escrita por Janaina Azevedo Corral, representa um marco importante na literatura umbandista ao se dedicar exclusivamente a desvendar e sistematizar o conhecimento sobre as entidades que atuam no polo vibracional denominado "Esquerda" – Exus, Pombagiras e, de forma complementar, Malandros e Ciganos da Esquerda. A intenção primordial da autora, evidente desde a introdução (p. 7, 9-10), é <strong>desmistificar essas figuras</strong>, combatendo a visão distorcida e preconceituosa, frequentemente oriunda de influências externas (como o sincretismo com o Diabo cristão) ou da própria falta de estudo dentro da religião, que as associa indiscriminadamente ao mal.</p>
-            <h3>Desconstrução do Estigma e Função na Lei</h3>
-            <p>Corral contrapõe a visão popular que demoniza a Esquerda, apresentando Exus e Pombagiras como <strong>agentes essenciais da Lei Maior e da Justiça Divina</strong>. Longe de serem demônios, são descritos como espíritos em processo evolutivo (p. 10, 13), dotados de livre-arbítrio (p. 23), cuja função principal é atuar como guardiões, executores da Lei do Retorno e equilibradores nos planos mais densos da existência.</p>
-            <blockquote>"Já a Umbanda vê os Exus não como deuses, mas como uma entidade que busca iluminação por meio da caridade. Em síntese, o grande agente mágico de equilíbrio universal." (Corral, p. 10)</blockquote>
-            <p>A autora detalha as funções primordiais dessas entidades:</p>
+            <h2>Visão Geral da Obra</h2>
+            <p><strong>"O Livro da Esquerda na Umbanda" (Janaina Azevedo Corral)</strong> é um tratado doutrinário que sistematiza Exus, Pombagiras, Malandros e Ciganos sob a ótica da Lei Divina, afastando estigmas de demonização e articulando um modelo cosmológico funcional para a Esquerda. A autora declara intenção explícita de combater "achismos" com descrição teológica, organogramas e catálogos (selos, nomes, cantigas).</p>
+            <div class="key-concept"><h4>Pilar Central</h4><p>Recontextualização: Exus e Pombagiras são <strong>agentes de equilíbrio universal</strong>, executores da Lei (ação e reação) nos planos densos. A materialidade, sexualidade, dinheiro e prazer – historicamente rotulados como "pecado" no moralismo popular – são campos legítimos que precisam de equilíbrio, não repressão.</p></div>
+            <h3>Origem do Termo "Esquerda"</h3>
             <ul>
-                <li><strong>Guardiões da Lei e dos Caminhos:</strong> Atuam como protetores dos terreiros (Exu da Tronqueira), dos médiuns e consulentes, barrando energias negativas e espíritos desqualificados. São a "linha de frente" que assegura a ordem necessária para os trabalhos espirituais (Corral, p. 9, 28).</li>
-                <li><strong>Executores Cármicos:</strong> São responsáveis por aplicar a Lei de Ação e Reação, desfazendo trabalhos de magia negativa direcionados a outrem e cobrando, dentro da Justiça Divina, os débitos daqueles que agiram em desequilíbrio (Corral, p. 10, 17-18, 23). Sua ação, embora possa parecer severa, visa o reajuste e o aprendizado.</li>
-                <li><strong>Trabalhadores da Matéria:</strong> Por sua profunda conexão com o plano material e a natureza humana, auxiliam em questões mundanas (trabalho, finanças, relacionamentos, saúde, desejos), atuando diretamente sobre as energias que regem esses aspectos da vida (Corral, p. 9, 24, 51).</li>
-                <li><strong>Psicólogos Astrais:</strong> Possuem um profundo entendimento das paixões, medos, vícios e motivações humanas, agindo como terapeutas que confrontam o indivíduo com sua própria verdade, sem as máscaras sociais (Corral, p. 11, 23).</li>
+                <li><strong>Religiosa Popular:</strong> "Mão esquerda" associada ao profano ("O Canhoto" no catolicismo popular) → projeção demonizante.</li>
+                <li><strong>Política / Revolução Francesa:</strong> Quebra de paradigmas, postura transformadora → converge com a função de Exu como quebrador de dogmas.</li>
+                <li><strong>Funcional Umbandista:</strong> Polo mundano que operacionaliza ajuste e justiça, complementando a Direita (polo da irradiação elevada).</li>
             </ul>
-            <h3>Distinção Essencial: Esquerda de Lei vs. Kiumbas</h3>
-            <p>Uma contribuição vital do livro é a ênfase na diferenciação entre Exus e Pombagiras que trabalham sob a Lei Divina e os <strong>Kiumbas</strong>. Estes últimos são definidos como espíritos ainda presos à ignorância e à maldade, obsessores que se comprazem no caos e na desgraça alheia, e que frequentemente se utilizam do nome "Exu" ou "Pomba Gira" para enganar e mistificar (Corral, p. 10, 86). Reconhecer essa diferença é crucial para a segurança da prática mediúnica.</p>
-            <h3>Estrutura e Abrangência</h3>
-            <p>A obra organiza o conhecimento sobre a Esquerda de forma didática, abordando:</p>
+            <h3>Distinção Estrutural: Exu de Lei x Kiumba</h3>
+            <p>Corral enfatiza que <strong>Kiumbas não são Exus</strong>. Kiumbas: espíritos trevosos/obsessores que parasitam, confundem e usam indevidamente nomes de Exu/Pombagira para legitimar práticas antiéticas. Exu de Lei: espírito em evolução que <em>atrai</em> e disciplina Kiumbas em suas falanges visando reeducação; executa corte de demandas e aplica retorno cármico sem vingança pessoal.</p>
+            <blockquote>"Exus buscam iluminação por meio da caridade." (Corral)</blockquote>
+            <h3>Funções Operativas da Esquerda</h3>
             <ul>
-                <li>A natureza e origem de Exu e Pombagira (Cap. 1 e 2).</li>
-                <li>Outras entidades que podem atuar na Esquerda, como Malandros (originários do Catimbó) e Ciganos (Cap. 3).</li>
-                <li>A relação entre a Esquerda e a evolução espiritual, desmistificando a associação com a "Magia Negra" (p. 13-27).</li>
-                <li>Elementos rituais: Selos/Pontos Riscados (p. 37-43), Cantigas (p. 44-65), oferendas e bebidas (p. 108-109).</li>
-                <li>A estrutura hierárquica da Umbanda e o posicionamento da Esquerda nela (p. 13, 89-96).</li>
+                <li><strong>Guarda e Filtragem:</strong> Tronqueira / proteção de médiuns e consulentes.</li>
+                <li><strong>Execução Cármica:</strong> Aplicação direta da Lei em bloqueios e desmanches.</li>
+                <li><strong>Regulação de Prazer e Matéria:</strong> Equilíbrio entre desejo e responsabilidade (sexualidade, finanças, poder pessoal).</li>
+                <li><strong>Psicodinâmica:</strong> Confronto de máscaras, revelação de padrões ocultos.</li>
             </ul>
-            <p>Em resumo, "O Livro da Esquerda na Umbanda" fornece uma base doutrinária para compreender a Esquerda não como um polo maligno, mas como uma força vital, complexa e necessária dentro do equilíbrio cósmico e da estrutura da Umbanda, composta por espíritos trabalhadores em busca de sua própria evolução através do serviço à Lei Maior.</p>
+            <h3>Cosmologia de Quadrantes</h3>
+            <p>Modelo em quatro polos: <strong>Direita (Orixás / Ordem)</strong>, <strong>Esquerda (Espíritos em evolução / Ordem mundana)</strong>, <strong>Trevas (Caos primordial)</strong>, <strong>Serviçais do Caos (Kiumbas / caos aplicado)</strong>. Esquerda e Direita são ambos campos da Luz; oposição verdadeira dá-se entre Ordem e Caos.</p>
+            <h3>Sete Linhas da Esquerda</h3>
+            <p>Estrutura numerológica (7) reforça organização evolutiva. Cada Linha possui contraparte (Instância) nos Serviçais do Caos.</p>
+            <table class="datatable">
+                <thead><tr><th>Linha de Lei</th><th>Função Evolutiva</th><th>Exemplos de Entidades</th><th>Instância Oposta (Kiumba)</th></tr></thead>
+                <tbody>
+                    <tr><td>Pacificadores</td><td>Paz, reorientação ética</td><td>Exu Veludo, Pombagira da Figueira</td><td>Instância da Dissensão</td></tr>
+                    <tr><td>Fertilidade</td><td>Relações, produção vital</td><td>Pombagira Maria Padilha, Ciganas</td><td>Esterilidade / Ruptura afetiva</td></tr>
+                    <tr><td>Protetores</td><td>Guarda, aconselhamento</td><td>Exu Tranca-Rua, Exu Mirim</td><td>Falsos Guias / Engano</td></tr>
+                    <tr><td>Guerreiros</td><td>Corte, disciplina, demandas</td><td>Exu Sete Espadas, Pombagira Sete Navalhas</td><td>Instância da Violência Caótica</td></tr>
+                    <tr><td>Prosperidade</td><td>Rotas materiais equilibradas</td><td>Exu do Ouro, Pombagira (Rainha da Bolsa)</td><td>Avareza / Corrupção</td></tr>
+                    <tr><td>Lei</td><td>Aplicação direta da ação-reação</td><td>Exu Caveira, Exu Justiça</td><td>Injustiça / Desvio cármico</td></tr>
+                    <tr><td>Visão</td><td>Clarividência, oráculos</td><td>Pombagira Cigana, Exu Mirim vidente</td><td>Cegueira / Ilusão</td></tr>
+                </tbody>
+            </table>
+            <h3>Catálogo Doutrinário</h3>
+            <ul>
+                <li><strong>Nomes:</strong> Arranca Toco, Caveira, Tranca-Rua, Veludo, Marabô, Tiriri, Sete Encruzilhadas etc.</li>
+                <li><strong>Selos (Pontos Riscados):</strong> ~70 modelos descritos (função: ancoragem sem drenagem integral do médium, manutenção de vínculo durante transe).</li>
+                <li><strong>Cantigas:</strong> Conjunto de pontos cantados específicos para invocação, saudação, descarrego e despedida.</li>
+            </ul>
+            <h3>Pombagira: Releituras</h3>
+            <p>Origem etimológica provável ligada a <em>Pambu Njila</em> ou formas correlatas; atua na ética das paixões e na reorganização emocional. Estigma da prostituição é substituído pela leitura de <strong>mulheres livres</strong> que compreenderam a psicologia afetiva e a usam para reeducar consulentes.</p>
+            <h4>Títulos e Regências</h4>
+            <table class="datatable">
+                <thead><tr><th>Título</th><th>Regência/Conexão</th><th>Campo de Trabalho</th></tr></thead>
+                <tbody>
+                    <tr><td>Rainha</td><td>Oxalá / Exu</td><td>Ordenação, síntese de poder</td></tr>
+                    <tr><td>Do Cruzeiro</td><td>Omolu / Nanã</td><td>Cemitério, ancestralidade</td></tr>
+                    <tr><td>Dos Infernos</td><td>Exu / Iansã</td><td>Demandas densas, causa e consequência</td></tr>
+                    <tr><td>Do Cabaré</td><td>Iansã / Oxum</td><td>Relações sociais, boemia, empoderamento</td></tr>
+                    <tr><td>Da Estrada</td><td>Ogum</td><td>Mobilidade, rotas de vida</td></tr>
+                    <tr><td>Da Figueira</td><td>Xangô</td><td>Família, justiça equilibrada</td></tr>
+                    <tr><td>Sete Navalhas</td><td>Ogum</td><td>Corte de demandas complexas</td></tr>
+                    <tr><td>Do Mar / Calunga</td><td>Oxum / Iemanjá</td><td>Afeto profundo, fertilidade, cura emocional</td></tr>
+                </tbody>
+            </table>
+            <h3>Exemplo de Análise de Selo: Exu Veludo</h3>
+            <p><strong>Características:</strong> Ligação frequente com filhos de Xangô/Ogum. Selo apresenta tridentes curvos (refinamento e riqueza), espirais superiores (coroa/realeza), cruz lateral (trabalho sobre demandas de morte/limite) e nó desatado (demandas vencidas). Interpretação: atuação em justiça refinada + dissolução de nós energéticos sem brutalidade.</p>
+            <h3>Selos: Modalidades de Risco</h3>
+            <ul>
+                <li><strong>Pemba:</strong> Uso padrão (branca/vermelha); calcário consagrado para condensar e destruir miasmas.</li>
+                <li><strong>Pólvora:</strong> Ativação agressiva de corte/desmanche; apenas sacerdotes experientes (alto deslocamento energético).</li>
+                <li><strong>Fixo:</strong> Gravado permanentemente em piso/templo dedicado; restringe atuação direta de linhas da Direita naquele núcleo.</li>
+                <li><strong>Areia:</strong> Traçado para Pombagiras (praia ou leito simbólico) em banimento emocional/afetivo.</li>
+            </ul>
+            <h3>Ciganos e Malandros na Esquerda</h3>
+            <p><strong>Malandros:</strong> Arquétipo de estratégia adaptativa (Zé Pelintra); justiça social, abertura de caminhos urbanos, resiliência boêmia. <strong>Ciganos da Esquerda:</strong> Manifestação mundana (às vezes como Exu/Pombagira) focada em magia elemental direta, clarividência prática e resolução material com ética.</p>
+            <h3>Critérios de Discernimento Prático</h3>
+            <ul>
+                <li><strong>Coerência Ética:</strong> Exu de Lei recusa ataque egoísta; Kiumba incentiva manipulação.</li>
+                <li><strong>Energia Pós-Atendimento:</strong> Trabalho legítimo deixa campo limpo e estável, não exausto e caótico.</li>
+                <li><strong>Sem Barganha:</strong> Não exige "pagamentos" desproporcionais ou favores pessoais.</li>
+            </ul>
+            <h3>Contribuição Doutrinária</h3>
+            <p>A obra consolida a Esquerda como <strong>pilar da justiça e evolução material/psicológica</strong>, afastando visão moralista e oferecendo nomenclaturas operativas (Linhas, Instâncias, títulos) que ajudam casas a educar médiuns e consulentes.</p>
+            <div class="aprofundar"><h3>Para Aprofundar</h3><ul>
+                <li>Comparar organograma de Corral com hierarquias propostas por Saraceni e Matta e Silva.</li>
+                <li>Análise semiótica de pontos riscados (tridente curvo vs reto, espiral vs cruz).</li>
+                <li>Estudo de casos: diferenciação prática entre pedido antiético e demanda legítima de proteção.</li>
+            </ul></div>
         `,
         aprofundar: [ 'Leitura comparativa entre as fontes: Corral, Barbosa Jr., Trindade.' ]
     },
@@ -926,31 +1152,128 @@ window.categoriasData = [
         nome: 'Bibliografia Comentada',
         titulo: 'Bibliografia Comentada e Fontes de Aprofundamento',
         conteudo: `
-            <h3>Obras Essenciais por Tema</h3>
-            <ol>
-                <li><strong>Esquerda e Guardiões:</strong> Corral, Janaina Azevedo. "O Livro da Esquerda na Umbanda" – Desmistificação e sistematização da Linha de Esquerda.</li>
-                <li><strong>Mitologia Yorubá:</strong> Prandi, Reginaldo. "Mitologia dos Orixás" – Base para leitura simbólica de Itans.</li>
-                <li><strong>Estrutura e História:</strong> Barbosa Jr., Ademir. "Curso Essencial de Umbanda" – Panorama prático e histórico.</li>
-                <li><strong>Teologia Sistematizada:</strong> Saraceni, Rubens. Obras diversas – Mistérios e modelagens doutrinárias (uso crítico).</li>
-                <li><strong>Herbário:</strong> Souto Maior, Haroldo. "Ervas de Umbanda" – Referência inicial de propriedades vegetais.</li>
-            </ol>
-            <h3>Critério de Seleção</h3>
+            <h2>Bibliografia Comentada e Fontes de Aprofundamento</h2>
+            <p><strong>Categoria:</strong> Bibliografia Comentada • <strong>Grupo:</strong> Fundamentos • <strong>Fonte Base:</strong> Guia de Estudos Umbandista (consolidado e aprimorado). Esta seção organiza obras essenciais, critérios, métodos e referências cruzadas para estudo sistemático, evitando absolutizações e promovendo leitura crítica.</p>
+            <hr />
+            <h3>1. Obras Essenciais por Tema</h3>
+            <table class="datatable">
+                <thead>
+                    <tr><th>Tema</th><th>Obra / Autor</th><th>Destaques e Insights</th></tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Esquerda e Guardiões</td>
+                        <td>Corral, Janaina Azevedo. <em>O Livro da Esquerda na Umbanda</em> (2010)</td>
+                        <td>Desmistifica Exus e Pombagiras; explica nomenclatura "Esquerda" em chave histórica-religiosa; enfatiza função de agentes cármicos e guardiões da materialidade (prazer, festividade, fertilidade) e justiça aplicada.</td>
+                    </tr>
+                    <tr>
+                        <td>Mitologia Yorubá</td>
+                        <td>Prandi, Reginaldo. <em>Mitologia dos Orixás</em> (2001)</td>
+                        <td>Compilação de 301 itans (representando número incalculável no antigo sistema). Fundamenta leitura simbólica de arquétipos e decifração oracular (búzios / Odus); transição da oralidade ao registro escrito.</td>
+                    </tr>
+                    <tr>
+                        <td>Estrutura e História</td>
+                        <td>Barbosa Jr., Ademir. <em>Curso Essencial de Umbanda</em> (2011)</td>
+                        <td>Panorama histórico-prático: matrizes (Africanismo, Cristianismo, Indianismo, Kardecismo, Orientalismo); etimologias; histórico das classificações das Sete Linhas (Leal de Souza, Matta e Silva, Saraceni).</td>
+                    </tr>
+                    <tr>
+                        <td>Teologia Sistematizada</td>
+                        <td>Saraceni, Rubens. Obras diversas (ex.: <em>Sete Linhas de Umbanda – A Religião dos Mistérios</em>; <em>Orixá Pombagira</em>)</td>
+                        <td>Modelagem teológica por Essências (Cristalina/Fé – Oxalá; Mineral/Amor – Oxum; Vegetal/Conhecimento – Oxóssi; Ígnea/Justiça – Xangô; Aérea/Lei – Ogum; Telúrica/Evolução – Obaluaiê; Aquática/Geração – Iemanjá). Usar criticamente cruzando com outras escolas quanto à conceituação de Exu, Pombagira e linhas.</td>
+                    </tr>
+                    <tr>
+                        <td>Herbário e Ritualística</td>
+                        <td>Barbosa Jr., Ademir. <em>Guia prático de plantas medicinais</em>; Trindade, Diamantino F. <em>Manual de Umbanda para Iniciantes</em></td>
+                        <td>Base segura para propriedades vegetais e uso ritual (banhos, defumações). Centralidade de Ossaim: "Ko si ewé, ko si Orisà" (Sem folhas não há Orixá). Uso com orientação pela potência terapêutica ou tóxica.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <h4>Observação:</h4>
+            <p>Fontes não localizadas (ex.: Souto Maior em arquivos atuais) foram substituídas por obras verificadas de circulação ampla.</p>
+            <hr />
+            <h3>2. Critérios de Seleção</h3>
             <ul>
-                <li>Amplitude temática (cobrir teologia, prática e mitologia).</li>
-                <li>Autoridade reconhecida em círculos de estudo.</li>
-                <li>Utilidade direta em planejamento ritual.</li>
+                <li><strong>Amplitude temática:</strong> Teologia, prática, mitologia, história.</li>
+                <li><strong>Autoridade:</strong> Reconhecimento em círculos de estudo ou uso sistemático em formação mediúnica.</li>
+                <li><strong>Aplicabilidade:</strong> Utilidade direta em planejamento ritual, aconselhamento e formação ética.</li>
+                <li><strong>Correlacionabilidade:</strong> Possibilidade de leitura cruzada para validar convergências e mapear divergências.</li>
             </ul>
-            <h3>Método de Estudo Recomendido</h3>
+            <hr />
+            <h3>3. Método de Estudo Recomendido</h3>
             <ol>
-                <li><strong>Leitura Paralela:</strong> Comparar capítulos sobre Exu (Corral vs Saraceni) para identificar convergências/divergências.</li>
-                <li><strong>Fichamento Temático:</strong> Registrar correspondências de Orixás (Prandi) aplicáveis a atendimentos.</li>
-                <li><strong>Aplicação Controlada:</strong> Introduzir um aprendizado por gira (ex.: novo ponto cantado autenticado).</li>
+                <li><strong>Leitura Paralela:</strong> Contrastar capítulos sobre Exu (Corral vs Saraceni vs Barbosa Jr.) para distinguir Exu Orixá, Exu Entidade e Exu Guardião (função cármica).</li>
+                <li><strong>Fichamento Temático:</strong> Planilha de correspondências (Orixás: símbolos, elementos, ervas, arquétipos – fonte: Prandi + Barbosa Jr.).</li>
+                <li><strong>Aplicação Controlada:</strong> Introduzir 1 fundamento por gira (ex.: ponto cantado autenticado), registrado em diário mediúnico com efeitos vibracionais percebidos.</li>
+                <li><strong>Mapeamento de Divergências:</strong> Lista rápida: Exu (agente dinâmico / mensageiro / cármico) vs reduções moralistas; Sete Linhas (organização Saraceni vs históricos anteriores).</li>
+                <li><strong>Revisão Mensal:</strong> Sessão de cruzamento crítico entre notas e vivência prática (feedback da casa).</li>
             </ol>
-            <h3>Alerta Metodológico</h3>
-            <p>Evitar absolutização de uma única fonte. Cruzar bibliografia com orientação da casa e vivência prática mediúnica.</p>
+            <hr />
+            <h3>4. Alerta Metodológico</h3>
+            <div class="warning">Evite absolutizar uma única obra. A diversidade ritual é legítima. Priorize senso crítico + senso crístico (compaixão e respeito) para julgar práticas e discursos.</div>
+            <ul>
+                <li><strong>Verificação com a Casa:</strong> Sempre alinhar interpretações de mistérios com a doutrina local.</li>
+                <li><strong>Evitar Reduções Psicológicas:</strong> Não simplificar Orixás a "traços humanos" (vaidade, ciúme) — são princípios cósmicos.</li>
+                <li><strong>Registro de Ajustes:</strong> Anotar quando a prática vivida divergir da teoria para estudo de variantes regionais.</li>
+            </ul>
+            <hr />
+            <h3>5. Pontos para Aprofundar (Listagem com Páginas / Capítulos)</h3>
+            <p>Referências indicativas (usar edição física/digital disponível; onde páginas foram citadas em estudo interno):</p>
+            <table class="datatable">
+                <thead><tr><th>#</th><th>Tópico</th><th>Fonte Principal</th><th>Páginas / Capítulos Chave</th></tr></thead>
+                <tbody>
+                    <tr><td>1</td><td>Conceito de Esquerda (Exu / Pombagira)</td><td>Corral</td><td>Introdução (p. 334), Exu (Cap. 1, p. 352), Pombagira (Cap. 2, p. 356)</td></tr>
+                    <tr><td>2</td><td>Exu como Agente Cármico / Guardador</td><td>Peixoto – Umbanda Pé no Chão</td><td>Cap. 8 (p. 531)</td></tr>
+                    <tr><td>3</td><td>Lei de Ação e Reação / Equilíbrio</td><td>Corral</td><td>P. 342</td></tr>
+                    <tr><td>4</td><td>Origem da Umbanda (Caboclo das Sete Encruzilhadas)</td><td>Peixoto</td><td>P. 474–476</td></tr>
+                    <tr><td>5</td><td>Matrizes Constituintes</td><td>Barbosa Jr.</td><td>Tabela 2.1 (p. 11–12)</td></tr>
+                    <tr><td>6</td><td>Sete Linhas (Histórico de Classificações)</td><td>Barbosa Jr.</td><td>P. 36–42</td></tr>
+                    <tr><td>7</td><td>Orixás: Definição / Essência</td><td>Barbosa Jr.</td><td>Cap. 4 (p. 19–20)</td></tr>
+                    <tr><td>8</td><td>Orixá como energia cósmica (não incorporam)</td><td>Peixoto</td><td>P. 517</td></tr>
+                    <tr><td>9</td><td>Importância dos Itans</td><td>Prandi</td><td>Prólogo / Odus (p. 211–217)</td></tr>
+                    <tr><td>10</td><td>Nanã / Decanato</td><td>Barbosa Jr.</td><td>P. 27</td></tr>
+                    <tr><td>11</td><td>Obaluaiê / Saúde / Passagens</td><td>Barbosa Jr.</td><td>P. 28</td></tr>
+                    <tr><td>12</td><td>Hierarquia (Babalorixá, Ogã, Cambone)</td><td>Barbosa Jr.</td><td>Cap. 9 (p. 63–66)</td></tr>
+                    <tr><td>13</td><td>Ossaim – Orixá das Ervas</td><td>Barbosa Jr.</td><td>P. 30</td></tr>
+                    <tr><td>14</td><td>Finalidade de Banhos / Amacis</td><td>Peixoto</td><td>P. 507</td></tr>
+                    <tr><td>15</td><td>Defesa / Diversidade Ritualística</td><td>Peixoto</td><td>P. 512</td></tr>
+                    <tr><td>16</td><td>Banhos de Orixá (Exemplos)</td><td>Trindade</td><td>P. 313–314</td></tr>
+                    <tr><td>17</td><td>Pontos Cantados (Tipos e Função)</td><td>Barbosa Jr.</td><td>P. 71–72</td></tr>
+                </tbody>
+            </table>
+            <hr />
+            <h3>6. Mini-Roteiro de Fichamento</h3>
+            <ul>
+                <li><strong>Estrutura:</strong> Coluna Tópico | Fonte | Página | Síntese | Aplicação Ritual.</li>
+                <li><strong>Código de Cor:</strong> Azul (teoria), Verde (aplicação), Amarelo (divergência), Vermelho (alerta doutrinário).</li>
+                <li><strong>Revisão:</strong> Quinzenal com guia de cabeça / dirigente para correções.</li>
+            </ul>
+            <hr />
+            <h3>7. Sugestões de Aprofundamento Imediato</h3>
+            <ul>
+                <li>Comparar concepção de Exu (Corral) com papel de Exu Orixá (Prandi) → montar quadro de distinções.</li>
+                <li>Construir mapa cronológico das classificações das Sete Linhas.</li>
+                <li>Revisar terminologia de Ossaim em diferentes autores (Ossaim / Osanyin) e impacto na prática de coleta de folhas.</li>
+                <li>Elaborar glossário rápido de termos yorubás presentes nos Itans para reforço pedagógico.</li>
+            </ul>
+            <hr />
+            <h3>8. Boas Práticas de Uso da Bibliografia</h3>
+            <ul>
+                <li><strong>Contextualizar:</strong> Registrar data da leitura e situação ritual em que o insight foi aplicado.</li>
+                <li><strong>Triangular:</strong> Nunca aplicar fundamento novo sem confirmação (Casa + Guia + Fonte escrita).</li>
+                <li><strong>Sinalizar Lacunas:</strong> Marcar tópicos sem apoio textual ("[lacuna]") para pesquisa posterior.</li>
+                <li><strong>Ética:</strong> Usar material para educação, não para reforçar vaidade mediúnica.</li>
+            </ul>
+            <hr />
+            <h3>9. Síntese Final</h3>
+            <p>A bibliografia comentada funciona como <strong>matriz de validação doutrinária</strong> e instrumento de formação continuada. Leitura cruzada + fichamento temático + aplicação controlada consolidam aprendizado seguro e ético. Divergências são oportunidades de refino crítico, não de polarização.</p>
         `,
         source: 'Guia de Estudos Umbandista (Nov/2025)',
-        aprofundar: [ 'Listagem completa e páginas indicadas para cada tópico.' ]
+        aprofundar: [
+            'Quadro comparativo Exu Orixá vs Exu Entidade vs Exu Guardião',
+            'Mapa cronológico das classificações das Sete Linhas (1908→2003)',
+            'Planilha de correspondências (ervas / elementos / cores / símbolos) consolidada',
+            'Glossário yorubá mínimo para Itans (20 termos prioritários)'
+        ]
     },
     {
         id: 'glossario_expandido',
