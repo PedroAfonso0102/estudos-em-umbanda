@@ -19,7 +19,7 @@ window.categoriasData = [
         verified: true,
         source: 'Consolidado: Corral; Prandi; Barbosa Jr.; Saraceni',
             conteudo: `
-                <p>A Umbanda é uma religião rica em fundamentos, rituais e uma filosofia profunda, que se estabeleceu como um movimento caritativo de inclusão espiritual. A seguir, detalhamos os aspectos solicitados, conforme as informações contidas nas fontes.</p>
+                <p>A Umbanda</p>
                 <h2>Fundamentos: Filosofia, Axé e Lei de Ação e Reação</h2>
                 <h3>Visão Geral</h3>
                 <p>A Umbanda é reconhecida como uma <strong>religião constituída, com fundamentos, teologia própria, hierarquia, sacerdotes e sacramentos</strong>. Suas sessões são gratuitas, focadas no atendimento <strong>holístico</strong> (corpo, mente, espírito) e na prática da caridade, sem proselitismo. Por ser uma religião ecológica, ela convida seus adeptos a vivenciarem sua fé no cotidiano, cuidando do próprio corpo e do meio ambiente.</p>
@@ -1737,3 +1737,4 @@ window.categoriasData = [
                             ]
         }
 ];
+
